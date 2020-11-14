@@ -1,2 +1,2 @@
 #Portfolio-demo
-first ebsite demo for my portfolio 
+first website demo for my portfolio 
